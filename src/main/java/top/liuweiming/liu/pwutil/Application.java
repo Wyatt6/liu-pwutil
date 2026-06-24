@@ -1,4 +1,4 @@
-package fun.xianlai.pwutil;
+package top.liuweiming.liu.pwutil;
 
 /**
  * Usage:

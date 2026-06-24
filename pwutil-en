@@ -1,7 +1,7 @@
 #!/bin/bash
 # commands in script will not be recorded into history
 echo
-printf "Welcome to use \033[4mXianLai - PWUtil\033[0m\n"
+printf "Welcome to use \033[4mPWUtil\033[0m\n"
 echo
 printf "A Password Encryption and Decryption Tool Based on the Command Line\n"
 while true; do

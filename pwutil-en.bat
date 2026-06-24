@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 echo.
-echo Welcome to use XianLai - PWUtil
+echo Welcome to use PWUtil
 echo.
 echo A Password Encryption and Decryption Tool Based on the Command Line
 :loop

@@ -1,4 +1,4 @@
-package fun.xianlai.pwutil;
+package top.liuweiming.liu.pwutil;
 
 import org.apache.commons.codec.binary.Base64;
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 # 脚本中执行的命令不会记录到history中，不会造成敏感信息泄露
 echo
-printf "欢迎使用 \033[4mXianLai - PWUtil\033[0m\n"
+printf "欢迎使用 \033[4mPWUtil\033[0m\n"
 echo
 printf "这是一个基于命令行的密码加解密工具\n"
 while true; do

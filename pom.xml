@@ -2,12 +2,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>fun.xianlai</groupId>
-    <artifactId>xianlai-pwutil</artifactId>
+    <groupId>top.liuweiming</groupId>
+    <artifactId>liu-pwutil</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>xianlai-pwutil</name>
+    <name>liu-pwutil</name>
     <description>A Password Encryption and Decryption Tool Based on the Command Line.</description>
 
     <properties>
@@ -54,7 +54,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>fun.xianlai.pwutil.Application</mainClass>
+                                    <mainClass>top.liuweiming.liu.pwutil.Application</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
